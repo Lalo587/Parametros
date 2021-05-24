@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="agregarContacto" type="id" />
+    <item name="listaC" type="id" />
+</resources>

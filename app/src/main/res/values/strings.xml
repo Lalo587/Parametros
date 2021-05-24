@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parametros</string>
+    <string name="BotonEnviar" />
+    <string name="etNombre1" />
+    <string name="etNombre2" />
+    <string name="BotonRegresar" />
+</resources>
